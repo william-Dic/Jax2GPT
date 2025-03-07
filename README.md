@@ -13,9 +13,7 @@ This repository is a from-scratch implementation of GPT models using **JAX** and
 ## **Installation**
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/jax-transformer.git
-cd jax-transformer
-pip install -r requirements.txt
+git clone https://github.com/william-Dic/Jax2GPT.git
 ```
 
 ## **License**
