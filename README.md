@@ -1,4 +1,4 @@
-# JAX2GPT: From-Scratch GPT Implementation  
+# JAX2GPT: From-Scratch GPT Implementation Using JAX
 
 This repository is a from-scratch implementation of GPT models using **JAX** and **Flax**. The project starts with **GPT (bigram model), GPT-2, and GPT-3** (if compute resources allow) and will eventually include a full **reimplementation of Deepseek-R1-distilled-7B** from scratch using JAX and Flax.  
 
