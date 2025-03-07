@@ -17,4 +17,4 @@ git clone https://github.com/william-Dic/Jax2GPT.git
 ```
 
 ## **License**
-MIT License.
+Apache 2.0
