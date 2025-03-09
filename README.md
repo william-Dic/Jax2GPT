@@ -4,7 +4,7 @@ Welcome to **JAX2GPT**, a project dedicated to implementing GPT models entirely 
 
 ## Repository Roadmap
 
-1. **GPT (Bigram Model)**  
+1. **GPT & Bigram Model**  
    A minimal character-level Transformer serving as the foundational building block.
 
 2. **GPT-2**  
