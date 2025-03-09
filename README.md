@@ -1,20 +1,33 @@
-# JAX2GPT: From-Scratch GPT Implementation Using JAX
+# JAX2GPT: Building GPT from Scratch with JAX/Flax
 
-This repository is a from-scratch implementation of GPT models using **JAX** and **Flax**. The project starts with **GPT (bigram model), GPT-2, and GPT-3** (if compute resources allow) and will eventually include a full **reimplementation of Deepseek-R1-distilled-7B** from scratch using JAX and Flax.  
+Welcome to **JAX2GPT**, a project dedicated to implementing GPT models entirely from scratch using [JAX](https://github.com/google/jax) and [Flax](https://github.com/google/flax). This repository serves as a playground for developing various GPT architectures—from a simple bigram model to more advanced models—and ultimately, a full reimplementation of Deepseek-R1-distilled-7B.
 
-## **Repository Roadmap**
-1. **GPT (Bigram Model)** → A minimal character-level Transformer.
-2. **GPT-2** → Implements a full GPT-2-like Transformer with multi-head attention.
-3. **GPT-3** → Scaling up with larger context windows and parameter tuning.
-4. **Deepseek-R1-distilled-7B** → From scratch JAX-based reimplementation.
+## Repository Roadmap
+
+1. **GPT (Bigram Model)**  
+   A minimal character-level Transformer serving as the foundational building block.
+
+2. **GPT-2**  
+   A full GPT-2-like Transformer model featuring multi-head attention mechanisms.
+
+3. **GPT-3**  
+   Scaling up the model with larger context windows and advanced parameter tuning (compute permitting).
+
+4. **Deepseek-R1-distilled-7B**  
+   A comprehensive from-scratch reimplementation of Deepseek-R1-distilled-7B using JAX/Flax.
 
 ---
 
-## **Installation**
-Clone the repository and install dependencies:
+## Installation
+
+Clone the repository and install the required dependencies:
+
 ```bash
 git clone https://github.com/william-Dic/Jax2GPT.git
+cd Jax2GPT
+# Follow the instructions in the repository for installing dependencies
 ```
 
-## **License**
-Apache 2.0
+## License
+
+This project is licensed under the Apache 2.0 License.
